@@ -4,3 +4,7 @@ importance!
 
 -Two strategies I am committed to implementing in my time at Turing are
 taking short and often breaks along with reaching out for help!
+
+-Someone who has been a positive presence in the past two weeks has been
+my partner who has previously attended Turing and has provided excellent
+insight!
